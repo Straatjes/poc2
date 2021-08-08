@@ -1,0 +1,5 @@
+CREATING CLIENTS FOR SERVICES
+How would I shape the request spec?
+Is there a flexible way in this where I can modify parts of the request?
+Maybe I need to set the headers ah
+
